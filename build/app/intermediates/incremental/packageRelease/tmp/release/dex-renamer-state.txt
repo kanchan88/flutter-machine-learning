@@ -1,0 +1,4 @@
+#Mon Sep 07 17:59:00 NPT 2020
+base.0=/home/evazs/Downloads/Classification-Flutter-TFlite-master/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
