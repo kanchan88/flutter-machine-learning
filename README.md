@@ -1,5 +1,5 @@
 # Machine Learning(Deep Learning) with Flutter
-Demo app which shows on device image classification using TFLite and Flutter
+Simple Flutter Application which uses On-Device Machine Learning.
 
 ## How I made it?
 1. Converted Tensorflow 2.x Mobilenet Model to TFLite Model
