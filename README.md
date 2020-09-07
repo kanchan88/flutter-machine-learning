@@ -16,5 +16,12 @@ Simple Flutter Application which uses On-Device Machine Learning.
 
 #deeplearning #tensorflow #ai #flutter #flutter #aiwithflutter
 
+## Working Video
+
+[![Watch the video](https://miro.medium.com/max/1020/1*qp84aqUzlD5dEVK9nTrj4Q.png)](https://github.com/kanchan88/flutter-machine-learning/blob/master/video-1599481638.mp4)
+
+
 ## Explaination by Kshitiz Rimal
 https://www.youtube.com/watch?v=mlPAcndoZHU
+
+
