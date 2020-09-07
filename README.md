@@ -1,22 +1,20 @@
-# On Device ML with Flutter x TFLite
+# Machine Learning(Deep Learning) with Flutter
 Demo app which shows on device image classification using TFLite and Flutter
 
-## App Structure
+## How I made it?
+1. Converted Tensorflow 2.x Mobilenet Model to TFLite Model
 
-- '<app_root>/pubspec.yaml': Used to add packages to the app from pub.dev
-- '<app_root>/lib/main.dart': Used for all the logic of the app
-- '<app_root>/assets/': used for storing and using TFLite model and label for the app
-- '<app_root>/android/app/src/main/AndroidManifest.xml': used for modifying app name and details
-- '<app_root>/android/app/build.gradle': used for specifying TFLite model not to be compressed
+2. Uploaded Assets to Flutter App and added tflite, imagepicker package in Flutter
 
-A few resources to get you started if this is your first Flutter project:
+3.  Changes made in Android Gradle 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+4. Loaded the tflite model using flutter tflite package.
 
-Learn more about TensorFlow Lite and semantic segmentation using it from the links below:
-- [Official TensorFlow Lite Website](https://tensorflow.org/lite)
+5. Picked the Image from Camera/Gallery and passed to the model
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6. Prediction Made
+
+#deeplearning #tensorflow #ai #flutter #flutter #aiwithflutter
+
+## Explaination by Kshitiz Rimal
+https://www.youtube.com/watch?v=mlPAcndoZHU
